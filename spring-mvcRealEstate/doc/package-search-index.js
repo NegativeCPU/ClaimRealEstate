@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.ClaimRealEstate.controller"},{"l":"com.ClaimRealEstate.entity"},{"l":"com.ClaimRealEstate.service"},{"l":"com.ClaimRealEstate.springmvcRealEstate"}];updateSearchResults();
